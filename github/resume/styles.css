@@ -35,16 +35,24 @@ hr {
     top: 20%;
     left: 10%;
     font-size: 60px;
-    color: black;
     border-style: solid;
     border-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
 
 .resume {
     background-color: white;
     height: 100%;
-    padding-left: 20%;
-    padding-right: 20%;
+    padding: 40px 20% 60px;
+    border-style: solid;
+    border-color: black;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 50px;
 }
 
 .section {
