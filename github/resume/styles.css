@@ -1,0 +1,65 @@
+body {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-family: 'Heebo', sans-serif;
+    color: #003366;
+    margin-right: 50px;
+}
+
+hr {
+    width: 50%;
+    margin: 30px auto;
+}
+
+#candleimg {
+    background-image: "candle.jpg";
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 0;
+    left: 0;
+    opacity: .7;
+    width: 100%;
+    
+}
+
+
+.resume {
+    background-color: white;
+    height: 100%;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.section {
+    padding: 10px;
+    line-height: 20px;
+}
+
+.profile {
+    padding-top: 10px;
+    
+}
+
+.DC {
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+#expheader {
+    word-spacing: 6px;
+    padding: 15px;
+}
+
+.list li {
+    list-style-position: inside;
+    padding: 10px 0 10px 20px;
+    text-indent: -1em; 
+}
+
+
+.footer {
+    padding: 50px;
+    font-size: 12px;
+    line-height: 200%;
+}
